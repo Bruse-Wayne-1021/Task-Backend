@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\dbcontext\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\dbcontext\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\controllers\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026115003_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManager\\Migrations\\20241026115003_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026104514_fjoik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManager\\Migrations\\20241026104514_fjoik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026092940_nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManager\\Migrations\\20241026092940_nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|x:\\assignment\\october\\activity-40-oct19\\new folder\\taskmanager\\taskmanager\\migrations\\20241102130247_ij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4167594D-0DD1-49A3-819A-C3B65E447384}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\20241102130247_ij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Controllers\\Register.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\Register.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Controllers\\Register.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\Register.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:42:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\UserRegistration.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "TaskManager\\Models\\UserRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:57:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\User.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\User.cs",
+              "RelativeToolTip": "TaskManager\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:15:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\appsettings.json",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\appsettings.json",
+              "RelativeToolTip": "TaskManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T07:33:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\UsersController.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:20:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckList.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\CheckList.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\CheckList.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\CheckList.cs",
+              "RelativeToolTip": "TaskManager\\Models\\CheckList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:43:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItems.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\TaskItems.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\TaskItems.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\TaskItems.cs",
+              "RelativeToolTip": "TaskManager\\Models\\TaskItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:31:01.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Registration.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\Registration.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:13:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\DBContext\\TaskContext.cs",
+              "RelativeDocumentMoniker": "TaskManager\\DBContext\\TaskContext.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\DBContext\\TaskContext.cs",
+              "RelativeToolTip": "TaskManager\\DBContext\\TaskContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:52:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loginuser.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\Loginuser.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Loginuser.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\Loginuser.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Loginuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:32:16.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Address.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Address.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Models\\Address.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:36:25.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:26:44.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:05:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241102130247_ij.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241102130247_ij.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\20241102130247_ij.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241102130247_ij.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\20241102130247_ij.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwHwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:02:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241026104514_fjoik.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026104514_fjoik.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\20241026104514_fjoik.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026104514_fjoik.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\20241026104514_fjoik.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:45:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241026115003_last.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026115003_last.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\20241026115003_last.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026115003_last.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\20241026115003_last.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:50:03.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241026092940_nic.cs",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026092940_nic.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Migrations\\20241026092940_nic.cs",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\Migrations\\20241026092940_nic.cs",
+              "RelativeToolTip": "TaskManager\\Migrations\\20241026092940_nic.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:29:40.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskManager.csproj",
+              "DocumentMoniker": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.csproj",
+              "ToolTip": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\TaskManager.csproj",
+              "RelativeToolTip": "TaskManager\\TaskManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T09:48:38.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
