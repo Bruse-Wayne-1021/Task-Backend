@@ -4,6 +4,7 @@ namespace TaskManager.Models
 {
     public class UserRegistration
     {
+        
         public Guid Id { get; set; }
         [Required]
         public string FullName { get; set; }

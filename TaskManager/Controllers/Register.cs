@@ -1,8 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.VisualBasic;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 using TaskManager.DBContext;
 using TaskManager.Models;
 
@@ -13,9 +17,11 @@ namespace TaskManager.Controllers
     public class Register : ControllerBase
     {
         private readonly TaskContext _taskContext;
-        public Register(TaskContext taskContext)
+        private readonly IConfiguration _configuration;
+        public Register(TaskContext taskContext, IConfiguration configuration)
         {
             _taskContext = taskContext;
+            _configuration = configuration;
         }
 
 
@@ -70,13 +76,16 @@ namespace TaskManager.Controllers
                     throw new Exception("PassWord DoesNot Matching");
                 }
 
-                var Response = new UserRegistration
-                {
-                    Id = user.Id,
-                    FullName = user.FullName,
-                    Email=user.Email,
-                };
-                return Ok(Response);
+                //var Response = new UserRegistration
+                //{
+                //    Id = user.Id,
+                //    FullName = user.FullName,
+                //    Email=user.Email,
+                //};
+                //return Ok(Response);
+
+                var token=createToken(user);
+                return Ok(token);
 
 
             }
@@ -84,6 +93,28 @@ namespace TaskManager.Controllers
             {
                 return BadRequest(ex.Message);
             }
+        }
+
+
+        private string createToken(UserRegistration userRegistration)
+        {
+            var claimlist = new List<Claim>();
+            claimlist.Add(new Claim("Id", userRegistration.Id.ToString()));
+
+            claimlist.Add(new Claim("FullName", userRegistration.FullName));
+            claimlist.Add(new Claim("Email",userRegistration.Email));
+            claimlist.Add(new Claim("Role", userRegistration.Role.ToString()));
+
+            var key = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]));
+            var creadintials=new SigningCredentials(key,SecurityAlgorithms.HmacSha256);
+            var token = new JwtSecurityToken(_configuration["Jwt:Issuer"], _configuration["Jwt:Audience"],
+                claims: claimlist,
+                expires: DateTime.Now.AddDays(30),
+                signingCredentials: creadintials
+
+            );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
 

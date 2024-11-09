@@ -12,8 +12,8 @@ using TaskManager.DBContext;
 namespace TaskManager.Migrations
 {
     [DbContext(typeof(TaskContext))]
-    [Migration("20241102130247_ij")]
-    partial class ij
+    [Migration("20241109165912_today")]
+    partial class today
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

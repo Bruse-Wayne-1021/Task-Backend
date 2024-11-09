@@ -7959,19 +7959,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UT01261\\.nuget\\packages\\": {}
+    "C:\\Users\\Sajilan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\TaskManager.csproj",
+      "projectUniqueName": "C:\\Users\\Sajilan\\Desktop\\New folder\\Task-Backend\\TaskManager\\TaskManager.csproj",
       "projectName": "TaskManager",
-      "projectPath": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\TaskManager.csproj",
-      "packagesPath": "C:\\Users\\UT01261\\.nuget\\packages\\",
-      "outputPath": "X:\\Assignment\\October\\Activity-40-oct19\\New folder\\TaskManager\\TaskManager\\obj\\",
+      "projectPath": "C:\\Users\\Sajilan\\Desktop\\New folder\\Task-Backend\\TaskManager\\TaskManager.csproj",
+      "packagesPath": "C:\\Users\\Sajilan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sajilan\\Desktop\\New folder\\Task-Backend\\TaskManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\UT01261\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sajilan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8067,7 +8067,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
